@@ -1,14 +1,14 @@
 {
-    "name": "yiiframe/xmlparser",
+    "name": "yiiframe/xml-parser",
     "type": "library",
     "description": "",
     "keywords": [],
-    "homepage": "https://github.com/YiiFrame/XmlParser",
+    "homepage": "https://github.com/yiiframe/xml-parser",
     "license": "BSD-3-Clause",
     "support": {
-        "source": "https://github.com/YiiFrame/XmlParser",
-        "issues": "https://github.com/YiiFrame/XmlParser/issues",
-        "wiki": "https://github.com/YiiFrame/XmlParser"
+        "source": "https://github.com/yiiframe/xml-parser",
+        "issues": "https://github.com/yiiframe/xml-parser/issues",
+        "wiki": "https://github.com/yiiframe/xml-parser"
     },
     "require": {
         "php": ">=7.2.0",
